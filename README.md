@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadubey00&label=Profile%20views&color=0e75b6&style=flat" alt="adityadubey00" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://octodex.github.com/images/scubatocat.png"/>
 
 
 - 🔭 I’m currently working on *Web Scrapping*
