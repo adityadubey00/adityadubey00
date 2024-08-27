@@ -14,7 +14,7 @@
 
 - 📫 How to reach me *adityadubey07312@gmail.com*
 
-- ⚡ Fun fact *Git is like a time machine for your code! It lets you travel back and forth through different versions of your project.*
+- ⚡ Fun fact : "*Git is like a time machine for your code! It lets you travel back and forth through different versions of your project.*"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
